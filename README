@@ -1,0 +1,3 @@
+Functions to streamline using GRASS GIS from R.
+
+Includes a suite of functions to proces large rasters as tiles.
